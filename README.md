@@ -15,7 +15,7 @@ The course is organized as a reading course. Each student will be required to pe
 * **Task 4:** write a critical review of the papers that covers in particular the summary of contributions, solutions, significance, and technical/experimental quality.
 * **Task 5:** choose one of your peers presentations to oppose. You will need to read the papers as well and have a general understanding of their content, contributions, and possible noticed limitations. You have to attend the presentation of your opponent, and to take careful notes on how you perceived its quality, both in terms of content, suitability of the chosen papers and the links between them, and quality of presenting.
 * **Task 6:** deliver a written report reviewing your opponent’s work. The review should present objective arguments on what you think are the strengths and weaknesses of the opposed presentation. The report should clearly explain why or why not you think that the selected papers fit within the course’s topic, how the presentation has been fair to explaining the content of the papers, as well as what were the presentations strong points and possible shortcomings.
-* Task 7: a minimum of 75% attendance in seminars
+* **Task 7:** a minimum of 75% attendance in seminars
 
 # Course Plan
 The course will be given in **P2 2019** and **P3 2020**.
