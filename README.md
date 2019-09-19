@@ -1,4 +1,4 @@
-# Course Title
+# The Course Title
 Advanced Topics in Distributed Systems
 
 # The Course Content 
