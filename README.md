@@ -1,4 +1,4 @@
-# # Course Title
+# Course Title
 FID3008 - Advanced Topics in Distributed Systems (7.5 ECTS)
 
 # The Course Content 
