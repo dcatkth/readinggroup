@@ -57,9 +57,7 @@ Those who are interested in registering for this course and gaining credits, ple
     <td>TBA</td> 
     <td>TBA</td>
     <td>TBA</td>
-    <td><a href="https://www-cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf">Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark</a><br>
-<a href="https://pdfs.semanticscholar.org/6fa0/917417d3c213b0e130ae01b7b440b1868dde.pdf">State Management in Apache Flink</a><br>
-<a href="https://pdfs.semanticscholar.org/2dd7/d97ca3b007aff337b717d27e6f7f155e820c.pdf">Consistent Regions: Guaranteed Tuple Processing in IBM Streams</a>
+    <td>* <a href="https://www-cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf">Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark</a><br>* <a href="https://pdfs.semanticscholar.org/6fa0/917417d3c213b0e130ae01b7b440b1868dde.pdf">State Management in Apache Flink</a><br>* <a href="https://pdfs.semanticscholar.org/2dd7/d97ca3b007aff337b717d27e6f7f155e820c.pdf">Consistent Regions: Guaranteed Tuple Processing in IBM Streams</a>
   </tr>
 </table>
 
