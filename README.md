@@ -47,7 +47,7 @@ Those who are interested in registering for this course and gaining credits, ple
     <th>Date</th>
     <th>Speaker</th> 
     <th>Oponent</th>
-    <th>Papera</th>
+    <th>Papers</th>
   </tr>
   <tr>
     <td>TBA</td>
