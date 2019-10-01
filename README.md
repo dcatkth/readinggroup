@@ -1,16 +1,19 @@
 # The Course Title
 Reading Course on "Advanced Topics in Distributed Systems and Data Mining"
 
+---
 # The Course Content
 <p align="justify">
 This course is a graduate reading course that will cover the advanced topics in distributed systems, including but not limited to distributed learning, gossip-based learning, graph neural networks, and large scale graph processing. Every participant should find their own relevant research papers, read and analyze their contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the selected papers.
 </p>
 
+---
 # Intended Learning Outcomes (ILO)
 <p align="justify">
 After the course the student will be able to discuss, analyze, present, and critically review the very latest research advancements in the areas of distributed systems and learning and make connections to knowledge in related fields. The student will also be able to assess and evaluate new emerging trends as well as to identify the need for further knowledge in the field.
 </p>
 
+---
 # Course Disposition
 <p align="justify">
 The course is organized as a reading course. Each student will be required to perform the following tasks:
@@ -30,9 +33,13 @@ The course is organized as a reading course. Each student will be required to pe
 Those who are interested in registering for this course and gaining credits, please make sure to have your name on the following list before September 30, 2019: [link](https://docs.google.com/spreadsheets/d/1dLaYwNC9rXUTi-UcTtT_07dEMjo5xVUVvZ25G1v1Pz4/edit?usp=sharing)
 -->
 
+---
 # Papers
 #### Klas Segeljakt (klasseg@kth.se)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[link](https://www-cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf)]
 * State Management in Apache Flink [[link](https://pdfs.semanticscholar.org/6fa0/917417d3c213b0e130ae01b7b440b1868dde.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[link](https://pdfs.semanticscholar.org/2dd7/d97ca3b007aff337b717d27e6f7f155e820c.pdf)]
 
+---
+# Schedule
+TBA
