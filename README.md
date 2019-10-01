@@ -52,7 +52,7 @@ Those who are interested in registering for this course and gaining credits, ple
   </tr>
   <tr>
     <td>TBA</td>
-    <td>Klas Segeljakt</td> 
+    <td>TBA</td> 
     <td>TBA</td>
     <td>TBA</td>
     <td>TBA</td>
