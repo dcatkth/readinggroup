@@ -42,7 +42,20 @@ Those who are interested in registering for this course and gaining credits, ple
 
 ---
 # Schedule
-TBA
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Speaker</th> 
+    <th>Oponent</th>
+    <th>Papera</th>
+  </tr>
+  <tr>
+    <td>TBA</td>
+    <td>TBA</td> 
+    <td>TBA</td>
+    <td>TBA</td>
+  </tr>
+</table>
 
 ---
 # Contact
