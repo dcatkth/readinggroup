@@ -1,4 +1,4 @@
-<center><img src="research.jpg" width="1400" height="270" align="center"></center>
+<center><img src="research.jpg" width="1400" height="200" align="center"></center>
 
 # The Course Title
 Reading Course on "Advanced Topics in Distributed Systems and Data Mining"
