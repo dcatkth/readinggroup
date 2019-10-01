@@ -2,7 +2,7 @@
 Reading Course on "Advanced Topics in Distributed Systems and Data Mining"
 
 # The Course Content
-<p style='text-align: justify;'> 
+<p align="justify">
 This course is a graduate reading course that will cover the advanced topics in distributed systems, including but not limited to distributed learning, gossip-based learning, graph neural networks, and large scale graph processing. Every participant should find their own relevant research papers, read and analyze their contributions, give a presentation on the material and actively contribute to the group discussions, as well as write a short report on the selected papers.
 </p>
 
