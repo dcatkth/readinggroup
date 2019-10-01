@@ -20,7 +20,7 @@ The course is organized as a reading course. Each student will be required to pe
 # Enrollment
 Those who are interested in registering for this course and gaining credits, please make sure to have your name on the following list before September 30, 2019: [link](https://docs.google.com/spreadsheets/d/1dLaYwNC9rXUTi-UcTtT_07dEMjo5xVUVvZ25G1v1Pz4/edit?usp=sharing)
 
-# Paper
+# Papers
 ### Klas Segeljakt (klasseg@kth.se)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[link](https://www-cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf)]
 * State Management in Apache Flink [[link](https://pdfs.semanticscholar.org/6fa0/917417d3c213b0e130ae01b7b440b1868dde.pdf)]
