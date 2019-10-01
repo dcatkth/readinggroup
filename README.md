@@ -17,8 +17,10 @@ The course is organized as a reading course. Each student will be required to pe
 * **Task 6:** deliver a written report reviewing your opponent’s work. The review should present objective arguments on what you think are the strengths and weaknesses of the opposed presentation. The report should clearly explain why or why not you think that the selected papers fit within the course’s topic, how the presentation has been fair to explaining the content of the papers, as well as what were the presentations strong points and possible shortcomings.
 * **Task 7:** a minimum of 75% attendance in seminars
 
+<!--
 # Enrollment
 Those who are interested in registering for this course and gaining credits, please make sure to have your name on the following list before September 30, 2019: [link](https://docs.google.com/spreadsheets/d/1dLaYwNC9rXUTi-UcTtT_07dEMjo5xVUVvZ25G1v1Pz4/edit?usp=sharing)
+-->
 
 # Papers
 #### Klas Segeljakt (klasseg@kth.se)
