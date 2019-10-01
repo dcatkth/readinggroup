@@ -47,13 +47,15 @@ Those who are interested in registering for this course and gaining credits, ple
     <th>Date</th>
     <th>Speaker</th> 
     <th>Oponent</th>
-    <th>Papers</th>
+    <th>Slide</th>
+    <th>Review</th>
   </tr>
   <tr>
     <td>TBA</td>
     <td>TBA</td> 
     <td>TBA</td>
     <td>TBA</td>
+    <td>TBA</td>    
   </tr>
 </table>
 
