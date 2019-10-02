@@ -37,9 +37,9 @@ Those who are interested in registering for this course and gaining credits, ple
 
 # Papers and Schedule
 #### <a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]
-* Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[link](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
-* State Management in Apache Flink [[link](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
-* Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[link](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
+* Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
+* State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
+* Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 
 <!--
 # Schedule
