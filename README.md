@@ -30,36 +30,22 @@ The course is organized as a reading course. Each student will be required to pe
 </ul>
 </p>
 
-<!--
-# Enrollment
-Those who are interested in registering for this course and gaining credits, please make sure to have your name on the following list before September 30, 2019: [link](https://docs.google.com/spreadsheets/d/1dLaYwNC9rXUTi-UcTtT_07dEMjo5xVUVvZ25G1v1Pz4/edit?usp=sharing)
--->
-
 # Papers and Schedule
 #### <a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 
-<!--
-# Schedule
-<table style="width:100%">
-  <tr>
-    <th>Date</th>
-    <th>Speaker</th> 
-    <th>Oponent</th>
-    <th>Slide</th>
-    <th>Papers</th>
-  </tr>
-  <tr>
-    <td>TBA</td>
-    <td>Klas Segeljakt</td> 
-    <td>TBA</td>
-    <td>pdf</td>
-    <td>* <a href="https://www-cs.stanford.edu/~matei/papers/2018/sigmod_structured_streaming.pdf">Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark</a><br>* <a href="https://pdfs.semanticscholar.org/6fa0/917417d3c213b0e130ae01b7b440b1868dde.pdf">State Management in Apache Flink</a><br>* <a href="https://pdfs.semanticscholar.org/2dd7/d97ca3b007aff337b717d27e6f7f155e820c.pdf">Consistent Regions: Guaranteed Tuple Processing in IBM Streams</a>
-  </tr>
-</table>
--->
+#### <a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]
+* Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
+* Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
+* Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
+
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
+
+<!--
+# Enrollment
+Those who are interested in registering for this course and gaining credits, please make sure to have your name on the following list before September 30, 2019: [link](https://docs.google.com/spreadsheets/d/1dLaYwNC9rXUTi-UcTtT_07dEMjo5xVUVvZ25G1v1Pz4/edit?usp=sharing)
+-->
