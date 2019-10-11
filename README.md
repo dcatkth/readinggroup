@@ -62,9 +62,9 @@ The course is organized as a reading course. Each student will be required to pe
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 
 #### <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a> [slides]
-* A Hierarchical Model for Device Placement [[pdf]()]
-* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf]()]
-* GDP: Generalized Device Placement for Dataflow Graphs [[pdf]()]
+* A Hierarchical Model for Device Placement [[pdf](/papers/A%20Hierarchical%20Model%20for%20Device%20Placement.pdf)]
+* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
  
 #### <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a> [slides]
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
