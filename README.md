@@ -46,6 +46,21 @@ The course is organized as a reading course. Each student will be required to pe
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
 
+#### <a href="mailto:antaris@kth.se">Stefanos Antaris</a> [slides]
+* Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
+* Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
+* TBS
+
+#### <a href="mailto:mmeldrum@kth.se">Max Meldrum</a> [slides]
+* Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
+* Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
+* TBS
+
+#### <a href="mailto:zainabab@kth.se">Zainab Abbas</a> [slides]
+* A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
+* Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
+* Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
+
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
