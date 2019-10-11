@@ -60,6 +60,12 @@ The course is organized as a reading course. Each student will be required to pe
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks
 * Beyond Data and Model Parallelism for Deep Neural Networks
 * Priority-based Parameter Propagation for Distributed DNN Training
+
+#### <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a> [slides]
+* A Hierarchical Model for Device Placement
+* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
+* GDP: Generalized Device Placement for Dataflow Graphs
+
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
