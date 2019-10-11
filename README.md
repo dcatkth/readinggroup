@@ -66,6 +66,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
 * GDP: Generalized Device Placement for Dataflow Graphs
 
+#### <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a> [slides]
+* Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
+* Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
+* SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
+
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
