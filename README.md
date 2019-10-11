@@ -57,15 +57,15 @@ The course is organized as a reading course. Each student will be required to pe
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
 #### <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides]
-* Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks
-* Beyond Data and Model Parallelism for Deep Neural Networks
-* Priority-based Parameter Propagation for Distributed DNN Training
+* Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
+* Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
+* Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 
 #### <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a> [slides]
-* A Hierarchical Model for Device Placement
-* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning
-* GDP: Generalized Device Placement for Dataflow Graphs
-
+* A Hierarchical Model for Device Placement [[pdf]()]
+* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf]()]
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf]()]
+ 
 #### <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a> [slides]
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
