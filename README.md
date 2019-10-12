@@ -71,6 +71,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
 
+#### <a href="mailto:moritz@logicalclocks.com">Moritz Meister</a> [slides]
+* BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
+* Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
+* Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
+
 ---
 # Contact
 Contact [Amir H. Payberah](https://payberah.github.io/) if you have any question.
