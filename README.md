@@ -36,8 +36,12 @@ The course is organized as a reading course. Each student will be required to pe
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
-**January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides]** (oponent: Sina Sheikholeslami)
+**December 9, 2019 - <a href="mailto:negars@kth.se">Negar Safinianaini</a> [slides]**
+* zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
+* Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
+* Spectral Learning of Mixture of Hidden Markov Models [[pdf](/papers/Spectral%20Learning%20of%20Mixture%20of%20Hidden%20Markov%20Models.pdf)]
 
+**January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides]** (opponent: Sina Sheikholeslami)
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
@@ -62,7 +66,7 @@ The course is organized as a reading course. Each student will be required to pe
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
 
-**<a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]**
+**<a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]** (opponent: Negar Safinianaini)
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
 * Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
