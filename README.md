@@ -36,7 +36,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
-#### January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides] (oponent: Sina Sheikholeslami)
+**January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides]** (oponent: Sina Sheikholeslami)
 
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
