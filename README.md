@@ -36,6 +36,16 @@ The course is organized as a reading course. Each student will be required to pe
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
+**November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a> [slides]**
+* TBS
+* TBS
+* TBS
+
+**November 25, 2019 - <a href="mailto:moritz@logicalclocks.com">Moritz Meister</a> [slides]**
+* BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
+* Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
+* Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
+
 **December 9, 2019 - <a href="mailto:negars@kth.se">Negar Safinianaini</a> [slides]**
 * zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
 * Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
@@ -75,11 +85,6 @@ The course is organized as a reading course. Each student will be required to pe
 * Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
 * Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
 * TBS
-
-**<a href="mailto:moritz@logicalclocks.com">Moritz Meister</a> [slides]**
-* BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
-* Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
-* Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
 
 ---
 # Contact
