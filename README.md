@@ -36,6 +36,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
+**November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]**
+* Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
+* State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
+* Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
+
 **November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a> [slides]** (opponent: Zainab Abbas)
 * TBS
 * TBS
@@ -75,11 +80,6 @@ The course is organized as a reading course. Each student will be required to pe
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
-
-**<a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]**
-* Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
-* State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
-* Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
 
 **<a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]** (opponent: Negar Safinianaini)
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
