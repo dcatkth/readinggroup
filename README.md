@@ -56,6 +56,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 
+**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a> [slides]**
+* Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
+* Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
+* MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
+
 **February 3, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a> [slides]**
 * Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
@@ -80,11 +85,6 @@ The course is organized as a reading course. Each student will be required to pe
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
 * Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
-
-**<a href="mailto:mmeldrum@kth.se">Max Meldrum</a> [slides]**
-* Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
-* Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
-* MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
 
 ---
 # Contact
