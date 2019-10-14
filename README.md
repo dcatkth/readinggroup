@@ -31,12 +31,12 @@ The course is organized as a reading course. Each student will be required to pe
 </p>
 
 # Papers and Schedule
-**November 4, 2019 - <a href="mailto:zainabab@kth.se">Zainab Abbas</a> [slides]**
+**November 4, 2019 - <a href="mailto:zainabab@kth.se">Zainab Abbas</a> [slides]** (opponent: Sana Imtiaz)
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
-**November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a> [slides]**
+**November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a> [slides]** (opponent: Zainab Abbas)
 * TBS
 * TBS
 * TBS
@@ -61,7 +61,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
 
-**February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a> [slides]**
+**February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a> [slides]** (opponent: Moritz Meister)
 * A Hierarchical Model for Device Placement [[pdf](/papers/A%20Hierarchical%20Model%20for%20Device%20Placement.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
