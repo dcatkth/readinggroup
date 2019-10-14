@@ -36,7 +36,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
 
-**November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]**
+**November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a> [slides]** (opponent: Max Meldrum)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
@@ -61,7 +61,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 
-**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a> [slides]**
+**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a> [slides]** (opponent: Klas Segeljakt)
 * Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
 * Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
