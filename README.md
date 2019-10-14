@@ -42,9 +42,9 @@ The course is organized as a reading course. Each student will be required to pe
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
 
 **November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a> [slides]** (opponent: Zainab Abbas)
-* TBS
-* TBS
-* TBS
+* Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[pdf](/papers/Semi-supervised%20Knowledge%20Transfer%20for%20Deep%20Learning%20from%20Private%20Training%20Data.pdf)]
+* SecureML: A System for Scalable Privacy-Preserving Machine Learning [[pdf](/papers/SecureML:%20A%20System%20for%20Scalable%20Privacy-Preserving%20Machine%20Learning.pdf)]
+* Chiron: Privacy-preserving Machine Learning as a Service [[pdf](/papers/Chiron:%20Privacy-preserving%20Machine%20Learning%20as%20a%20Service.pdf)]
 
 **November 25, 2019 - <a href="mailto:moritz@logicalclocks.com">Moritz Meister</a> [slides]**
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
