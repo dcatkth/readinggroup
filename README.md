@@ -56,6 +56,11 @@ The course is organized as a reading course. Each student will be required to pe
 * Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
 * Spectral Learning of Mixture of Hidden Markov Models [[pdf](/papers/Spectral%20Learning%20of%20Mixture%20of%20Hidden%20Markov%20Models.pdf)]
 
+**December 16, 2019 - <a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]** (opponent: Negar Safinianaini)
+* Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
+* Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
+* Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
+
 **January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a> [slides]** (opponent: Sina Sheikholeslami)
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
@@ -85,11 +90,6 @@ The course is organized as a reading course. Each student will be required to pe
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
-
-**<a href="mailto:lodovico@kth.se">Lodovico Giaretta</a> [slides]** (opponent: Negar Safinianaini)
-* Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
-* Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
-* Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
 
 ---
 # Contact
