@@ -1,0 +1,7 @@
+My research involves Hidden Markov Models (a model for probabilistic directed graph) in terms of learning and speed performance. These 3 below, all involve Hidden Markov Models. The first two concerns the speed performance for large Hidden Markov Models and the last one is about learning of a mixture of them with an innovation in structuring involved matrices in Hidden Markov Models.
+
+1. zipHMMlib: a highly optimised HMM library exploiting repetitions in the input to speed up the forward algorithm
+2. Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression
+3. ​ Spectral Learning of Mixture of Hidden Markov Models​
+
+I will possibly use and/or compare the papers in my next papers to be published. Paper 3 will be compared to my next contribution and paper 1 and 2 will be used and/or compared in the paper after my next paper.
