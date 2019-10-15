@@ -51,7 +51,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
 * Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
 
-**December 9, 2019 - <a href="mailto:negars@kth.se">Negar Safinianaini</a> [slides]**
+**December 9, 2019 - <a href="mailto:negars@kth.se">Negar Safinianaini</a> [slides]** (opponent: Amir Hossein Rahnama)
 * zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
 * Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
 * Spectral Learning of Mixture of Hidden Markov Models [[pdf](/papers/Spectral%20Learning%20of%20Mixture%20of%20Hidden%20Markov%20Models.pdf)]
