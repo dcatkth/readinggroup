@@ -66,7 +66,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 
-**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** [slides] (opponent: Klas Segeljakt)
+**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** [slides] [[justification](/justification/max.txt)] (opponent: Klas Segeljakt)
 * Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
 * Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
