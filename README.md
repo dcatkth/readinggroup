@@ -32,6 +32,7 @@ The course is organized as a reading course. Each student will be required to pe
 
 # Papers and Schedule
 **November 4, 2019**
+
 <a href="mailto:zainabab@kth.se">Zainab Abbas</a> [slides] (opponent: Sana Imtiaz)
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
