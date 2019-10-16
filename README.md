@@ -91,7 +91,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
 
-**March 2, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a> [slides] [[justification]**
+**March 2, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a> [slides]**
 * Learning Memory Access Patterns [[pdf](/papers/Learning%20Memory%20Access%20Patterns.pdf)]
 * NUMA-Caffe: NUMA-Aware Deep Learning Neural Networks [[pdf](/papers/NUMA-Caffe:%20NUMA-Aware%20Deep%20Learning%20Neural%20Networks.pdf)]
 * Improving Spark Application Throughput via Memory Aware Task Co-location: A Mixture of Experts Approach [[pdf](/papers/Improving%20Spark%20Application%20Throughput%20via%20Memory%20Aware%20Task%20Co-location:%20A%20Mixture%20of%20Experts%20Approach.pdf)]
