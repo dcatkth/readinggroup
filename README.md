@@ -76,7 +76,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
 
-**February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** [slides] (opponent: Moritz Meister)
+**February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** [slides] (opponent: Moritz Meister and David Daharewa Gureya)
 * A Hierarchical Model for Device Placement [[pdf](/papers/A%20Hierarchical%20Model%20for%20Device%20Placement.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
