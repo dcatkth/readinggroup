@@ -1,0 +1,9 @@
+Distributed learning and more specifically multi-agent reinforcement learning (MARL) has received significant interest in
+recent years notably due to the ability to transfer the learning complexity to the agents and allow them to optimize their
+policies in real time avoiding the bottleneck of the centralized nodes. However, many real-world tasks involve multiple agents
+with partial observability and limited communication which require more sophisticated algorithms and architectures such that
+the agents can collaborate and behave optimally in the presence of uncertainty by interacting with the environment. The three
+selected papers present multi-agent reinforcement learning algorithms that allow the agents to converge to their optimal policy.
+Moreover, these papers take into consideration the challenge that different agents may have completely different goals and as
+such they require different reward functions that will allow them to capture complex behaviors in a highly dynamic environment.
+This challenge becomes increasingly more difficult as the number of agents increases. 
