@@ -1,0 +1,7 @@
+As the amount of graph-structured data available for machine learning tasks constantly increases, Graph Representation Learning
+is becoming more and more important to extract latent features from these data. In recent years, many studies have tried to
+tackle this challenge from the perspective of deep learning, with the goal of producing representations optimized for specific
+downstream tasks. In particular, many different types of Graph Neural Networks (GNNs) have been developed, that can be
+classified in different families, based on what machine learning and graph theory concepts they are based on. This talk will
+cover three different GNN architectures, each belonging to a different family: Recurrent GNNs, Spectral-based Convolutional
+GNNs and Spatial-based Convolutional GNNs.
