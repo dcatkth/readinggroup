@@ -35,7 +35,7 @@ The course is organized as a reading course. Each student will be required to pe
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
-* [slides] [justification]
+* [slides] [[justification](/justification/zainab.txt)]
 
 **November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a>** (opponent: Max Meldrum)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
@@ -71,7 +71,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
-* [slides] [justification]
+* [slides] [[justification](/justification/tianze.txt)]
 
 **January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
@@ -95,7 +95,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
-* [slides] [justification]
+* [slides] [[justification](/justification/susanna.txt)]
 
 **February 24, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
