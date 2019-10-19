@@ -1,0 +1,7 @@
+Evidence suggests a frequent subgraph explains the higher-order structure of a graph, and as a result it might be interesting
+to carry out an analysis of networks, starting with frequent subgraphs. Unfortunately, frequent subgraph mining is a
+time-consuming and expensive job. Even the enumeration of all the k-sized subgraphs would be a challenge. Furthermore, large
+numbers of tests of isomorphism, which is not NP-complete, but we have yet to find a solution to this problem. There is a
+variety of algorithms that count the number of times a subgraph is in a graph. Unfortunately, frequent subgraph mining is just
+the same a problem of great complexity. For this reason, I selected three publications of distributed algorithms to solve the
+issue. The three algorithms take advantage of three models, i.e., MapReduce, Pregel, and Spark.
