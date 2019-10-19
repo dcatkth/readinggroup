@@ -1,0 +1,6 @@
+Device placement can be defined as the problem of learning to partition a dataflow graph across a set of available devices. In
+the context of deep learning, using such strategies and policies enables us to, e.g., partition large models across several
+processing units (e.g., GPUs) to train them in an efficient, distributed manner. This can both decrease the training time, and
+increase the resource efficiency, while also giving us the option to train very large models that do not fit on a single GPU.
+In this session we will discuss state-of-the-art device placement approaches that do not require human intervention, some of
+which can be used for any dataflow graph, and compare their performance, similarities, and shortcomings.
