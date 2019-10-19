@@ -1,0 +1,5 @@
+Recent years have witnessed dramatic growth in the computational requirements for training deep neural networks. The
+computational requirements have grown to the point where distributed and parallelized training is now standard practice.
+However, the performance benefits of employing distributed training can easily be hindered by different factors: e.g., the
+naive parallelization strategy, the communication-heavy parameter synchronization process, etc. During this session, we will be
+diving into different methods to improve the performance of distributed training algorithms.
