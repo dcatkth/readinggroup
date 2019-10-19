@@ -89,7 +89,7 @@ The course is organized as a reading course. Each student will be required to pe
 * A Hierarchical Model for Device Placement [[pdf](/papers/A%20Hierarchical%20Model%20for%20Device%20Placement.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
-* [slides] [justification]
+* [slides] [[justification](/justification/sina.txt)]
 
 **February 17, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
