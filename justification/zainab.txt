@@ -1,0 +1,7 @@
+Optimising the processing of huge volumes of data in a distributed setting can be achieved by partitioning the data or the
+model. Data partitioning involves partitioning of data across various compute nodes (workers) and then deploying data
+processing applications, such as, deep learning models and graph processing applications, over these partitions. On the other
+hand, for model partitioning  the model operations are placed across the computer nodes (workers). The papers chosen consist
+of two papers that focus on model partitioning. In particular, partitioning deep learning models over a cluster of heterogenous
+machines. The other paper is about data partitioning with streaming graphs used as the input data representation. All
+approaches used in the papers aim to optimise the performance of data processing applications. 
