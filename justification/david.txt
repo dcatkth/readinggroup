@@ -1,0 +1,8 @@
+Significant advances in computing performance and the growth of big data has enabled the resurgence of machine learning. 
+Although computer architects have been accelerating the performance of machine learning algorithms with GPUs and custom 
+hardware, there have been few implementations leveraging these algorithms to improve the computer system performance. However, 
+the few works that have done so in the areas of modeling, runtime prediction, cache replacement, branch prediction, and big 
+data analysis have shown tremendous promise. The chosen papers incentivize and provide a general guide to computer architects 
+for applying machine learning models to improve computer system performance. In particular, the first two papers demonstrate 
+the potential of deep learning to address the bottleneck of memory performance in computer systems. The third paper 
+demonstrates the use of machine learning algorithms to model the memory behavior of big data applications.
