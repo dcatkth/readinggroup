@@ -53,7 +53,7 @@ The course is organized as a reading course. Each student will be required to pe
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
 * Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
 * Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
-* [justification] [slides] [papers review] [opponent review]
+* [[justification](/justification/moritz.txt)] [slides] [papers review] [opponent review]
 
 **December 9, 2019 - <a href="mailto:negars@kth.se">Negar Safinianaini</a>** (opponent: Amir Hossein Rahnama)
 * zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
