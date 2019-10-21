@@ -1,4 +1,4 @@
-<center><a href="https://dcatkth.github.io/"><img src="research.jpg" width="1400" height="170" align="center"></a></center>
+<center><a href="https://dcatkth.github.io/"><img src="research.jpg" width="1400" height="165" align="center"></a></center>
 
 # The Course Title
 Reading Course on **Advanced Topics in Distributed Systems**
@@ -107,7 +107,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Learning Memory Access Patterns [[pdf](/papers/Learning%20Memory%20Access%20Patterns.pdf)]
 * NUMA-Caffe: NUMA-Aware Deep Learning Neural Networks [[pdf](/papers/NUMA-Caffe:%20NUMA-Aware%20Deep%20Learning%20Neural%20Networks.pdf)]
 * Improving Spark Application Throughput via Memory Aware Task Co-location: A Mixture of Experts Approach [[pdf](/papers/Improving%20Spark%20Application%20Throughput%20via%20Memory%20Aware%20Task%20Co-location:%20A%20Mixture%20of%20Experts%20Approach.pdf)]
-* [justification] [slides] [papers review] [opponent review]
+* [[justification](/justification/david.txt)] [slides] [papers review] [opponent review]
 
 ---
 # Contact
