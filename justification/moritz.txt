@@ -1,0 +1,8 @@
+In order to adequately explore the large hyperparameter spaces of modern learning models, it is necessary to evaluate a large
+number of conﬁgurations. Given the growing costs of model training, we would ideally like to perform this search as efficiently
+as possible and in parallel. In this session, we will discuss and compare three asynchronous search algorithms that can be
+deployed in parallel. Asynchronous algorithms have the advantage that they are robust against stragglers, avoid idle workers
+and can be combined with extensive early stopping, making them more efficient. However, these meta-level search algorithms
+introduce additional hyperparameters, for example the number of resources allocated to the training of each configuration, 
+leading to a trade-off between exploration and exploitation. We want to see how the authors of the three papers design their 
+experiments to guarantee comparability of the algorithms.
