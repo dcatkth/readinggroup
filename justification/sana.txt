@@ -1,0 +1,11 @@
+Machine learning is widely used in practice to produce predictive models for applications in business, health care, 
+recommendation services, threat analysis, and authentication technologies. These models are more accurate when trained on huge
+amount of data collected from different sources. However, the massive data collection raises privacy concerns. An ML model may
+inadvertently and implicitly store some of its training data; therefore, careful analysis of the model may reveal sensitive
+information. Selected literature deals with the problem of distributed and privacy preserving machine learning (ML) and
+provides different approaches to address the problem. The first paper demonstrates a generally applicable multi-tier ML
+approach to providing strong privacy guarantees for training data and proposes a distributed learning algorithm. The second
+paper presents a system for scalable privacy-preserving ML using a multi-party computation (MPC) approach. The third paper
+offers another interesting approach, privacy-preserving ML as a service, where they leverage the use of private computation
+units (Intel SGX) to reveal neither the training algorithm nor the model structure to the user, hence providing only black-box
+access to the trained model.
