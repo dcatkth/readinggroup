@@ -35,7 +35,7 @@ The course is organized as a reading course. Each student will be required to pe
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
-* [[justification](/justification/zainab.txt)] [slides] [papers review] [opponent review]
+* [[justification](/justification/zainab.txt)] [[slides](/slides/zainab_20191104.pdf)] [papers review] [opponent review]
 
 **November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a>** (opponent: Max Meldrum)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
