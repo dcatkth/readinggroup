@@ -41,7 +41,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
-* [[justification](/justification/klas.txt)] [slides] [papers review] [opponent review]
+* [[justification](/justification/klas.txt)] [[slides-pdf](/slides/klas_20191111.pdf)] [[slides-pptx](/slides/klas_20191111.pptx)] [papers review] [opponent review]
 
 **November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a>** (opponent: Zainab Abbas)
 * Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[pdf](/papers/Semi-supervised%20Knowledge%20Transfer%20for%20Deep%20Learning%20from%20Private%20Training%20Data.pdf)]
