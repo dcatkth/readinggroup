@@ -80,7 +80,7 @@ The course is organized as a reading course. Each student will be required to pe
 * [[justification](/justification/stefanos.txt)] [slides] [papers review] [opponent review]
 
 **February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
-* A Hierarchical Model for Device Placement [[pdf](/papers/A%20Hierarchical%20Model%20for%20Device%20Placement.pdf)]
+* Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
 * [[justification](/justification/sina.txt)] [slides] [papers review] [opponent review]
