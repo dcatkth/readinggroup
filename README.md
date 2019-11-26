@@ -53,7 +53,7 @@ The course is organized as a reading course. Each student will be required to pe
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
 * Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
 * Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
-* [[justification](/justification/moritz.txt)] [slides] [papers review] [opponent review]
+* [[justification](/justification/moritz.txt)] [[slides](/slides/moritz_20191125.pdf)] [papers review] [opponent review]
 
 **December 16, 2019 - <a href="mailto:lodovico@kth.se">Lodovico Giaretta</a>** (opponent: Negar Safinianaini)
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
