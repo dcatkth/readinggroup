@@ -59,7 +59,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
 * Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
-* [[justification](/justification/lodovico.txt)] [slides] [papers review] [opponent review]
+* [[justification](/justification/lodovico.txt)] [[slides](/slides/lodovico_20191216.pdf)] [papers review] [opponent review]
 
 **January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a>** (opponent: Sina Sheikholeslami)
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
