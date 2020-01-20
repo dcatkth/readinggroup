@@ -61,49 +61,51 @@ The course is organized as a reading course. Each student will be required to pe
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
 * [[justification](/justification/lodovico.txt)] [[slides](/slides/lodovico_20191216.pdf)]
 
-**January 20, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a>** (opponent: Sina Sheikholeslami)
+**January 29, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a>** (opponent: Sina Sheikholeslami)
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
 * [[justification](/justification/tianze.txt)] [slides]
 
-**January 27, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
+**February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
 * Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
 * [[justification](/justification/max.txt)] [slides]
 
-**February 3, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a>** (opponent: Susanna Pozzoli)
-* Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
-* Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
-* Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
-* [[justification](/justification/stefanos.txt)] [slides]
-
-**February 10, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
+**February 12, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
 * Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
 * [[justification](/justification/sina.txt)] [slides]
 
-**February 17, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
+**February 19, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
 * [[justification](/justification/susanna.txt)] [slides]
 
+**February 26, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a>** (opponent: Susanna Pozzoli)
+* Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
+* Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
+* Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
+* [[justification](/justification/stefanos.txt)] [slides]
+
+<!--
 **February 24, 2020 - <a href="mailto:negars@kth.se">Negar Safinianaini</a>** (opponent: Amir Hossein Rahnama)
 * zipHMMlib: A Highly Optimised HMM Library Exploiting Repetitions in the Input to Speed Up the Forward Algorithm [[pdf](https://github.com/dcatkth/readinggroup/blob/master/papers/zipHMMlib:%20A%20Highly%20Optimised%20HMM%20Library%20Exploiting%20Repetitions%20in%20the%20Input%20to%20Speed%20Up%20the%20Forward%20Algorithm.pdf)]
 * Fast Bayesian Inference of Copy Number Variants using Hidden Markov Models with Wavelet Compression [[pdf](/papers/Fast%20Bayesian%20Inference%20of%20Copy%20Number%20Variants%20using%20Hidden%20Markov%20Models%20with%20Wavelet%20Compression.PDF)]
 * Spectral Learning of Mixture of Hidden Markov Models [[pdf](/papers/Spectral%20Learning%20of%20Mixture%20of%20Hidden%20Markov%20Models.pdf)]
 * [[justification](/justification/negar.txt)] [slides]
+-->
 
-**March 2, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>** 
+**March 4, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>** 
 * Learning Memory Access Patterns [[pdf](/papers/Learning%20Memory%20Access%20Patterns.pdf)]
 * NUMA-Caffe: NUMA-Aware Deep Learning Neural Networks [[pdf](/papers/NUMA-Caffe:%20NUMA-Aware%20Deep%20Learning%20Neural%20Networks.pdf)]
 * Improving Spark Application Throughput via Memory Aware Task Co-location: A Mixture of Experts Approach [[pdf](/papers/Improving%20Spark%20Application%20Throughput%20via%20Memory%20Aware%20Task%20Co-location:%20A%20Mixture%20of%20Experts%20Approach.pdf)]
 * [[justification](/justification/david.txt)] [slides]
 
-**March 9, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
+**March 11, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
