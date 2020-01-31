@@ -1,8 +1,8 @@
-Significant advances in computing performance and the growth of big data has enabled the resurgence of machine learning. 
-Although computer architects have been accelerating the performance of machine learning algorithms with GPUs and custom 
-hardware, there have been few implementations leveraging these algorithms to improve the computer system performance. However, 
-the few works that have done so in the areas of modeling, runtime prediction, cache replacement, branch prediction, and big 
-data analysis have shown tremendous promise. The chosen papers incentivize and provide a general guide to computer architects 
-for applying machine learning models to improve computer system performance. In particular, the first two papers demonstrate 
-the potential of deep learning to address the bottleneck of memory performance in computer systems. The third paper 
-demonstrates the use of machine learning algorithms to model the memory behavior of big data applications.
+The business models for cloud and datacentre computing emphasize reduced infrastructure costs. Cost efficiency is typically
+achieved through workload consolidation, i.e., by co-locating workloads from multiple users on the same physical host to
+maximize resource utilization. Despite its benefits, workload consolidation poses critical challenges. The main challenge is
+the performance interference among the consolidated workloads, which is mainly caused by the contention over shared hardware
+resources. To prevent the performance interference among the consolidated workloads, the importance of efficient partitioning
+techniques for shared hardware resources is expeditiously increasing. Recent commodity CPUs have introduced hardware support
+for managing shared resources. The chosen papers incentivize and provide a general guide to implement robust policies to
+achieve maximum resource utilization by effectively employing the resource partitioning mechanisms provided by the hardware.
