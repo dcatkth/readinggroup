@@ -100,9 +100,9 @@ The course is organized as a reading course. Each student will be required to pe
 -->
 
 **March 4, 2020 - <a href="mailto:daharewa@kth.se">David Daharewa Gureya</a>** 
-* Learning Memory Access Patterns [[pdf](/papers/Learning%20Memory%20Access%20Patterns.pdf)]
-* NUMA-Caffe: NUMA-Aware Deep Learning Neural Networks [[pdf](/papers/NUMA-Caffe:%20NUMA-Aware%20Deep%20Learning%20Neural%20Networks.pdf)]
-* Improving Spark Application Throughput via Memory Aware Task Co-location: A Mixture of Experts Approach [[pdf](/papers/Improving%20Spark%20Application%20Throughput%20via%20Memory%20Aware%20Task%20Co-location:%20A%20Mixture%20of%20Experts%20Approach.pdf)]
+* CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
+* PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services [[pdf](/papers/PARTIES:%20QoS-Aware%20Resource%20Partitioning%20for%20Multiple%20Interactive%20Services.pdf)]
+* SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support [[pdf](/papers/SWAP:%20Effective%20Fine-Grain%20Management%20of%20Shared%20Last-Level%20Caches%20with%20Minimum%20Hardware%20Support.pdf)]
 * [[justification](/justification/david.txt)] [slides]
 
 **March 11, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
