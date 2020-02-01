@@ -68,9 +68,9 @@ The course is organized as a reading course. Each student will be required to pe
 * [[justification](/justification/tianze.txt)] [slides]
 
 **February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
-* Lineage Stash: Fault Tolerance Off the Critical Path [[pdf](/papers/Lineage%20Stash:%20Fault%20Tolerance%20Off%20the%20Critical%20Path.pdf)]
-* Lightweight Asynchronous Snapshots for Distributed Dataflows [[pdf](/papers/Lightweight%20Asynchronous%20Snapshots%20for%20Distributed%20Dataflows.pdf)]
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
+* Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray_A_Distributed_Framework_For_Emerging_AI_Applications.pdf)]
+* Naiad: A Timely Dataflow System [[pdf](/papers/Naiad_A_Timely_Dataflow_System.pdf)]
 * [[justification](/justification/max.txt)] [slides]
 
 **February 12, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)

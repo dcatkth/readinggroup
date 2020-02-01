@@ -1,6 +1,3 @@
-Organisations use distributed stream processing systems to run never-ending services to drive their business-critical
-analytics. Therefore, it is crucial that the systems are fault-tolerant. The three papers that have been selected all take a
-different approach to achieve fault-tolerance and they are as following: (1) lineage-based recovery; (2) global consistent
-checkpointing; (3) distributed state store. The aim is to gain a deeper understanding of the tradeoffs between the different
-techniques. But, also to get an insight on which may be most applicable for future systems (Arcon) when taking the growing
-network speeds into consideration.
+The dataflow processing model is at the core of modern distributed data processing frameworks. In this talk, we will look into
+3 systems (MillWheel, Ray, and Naiad) that utilise the aforementioned model. The aim is to gain a deeper understanding of the 
+design choices (e.g., how the dataflow model is used, how the system approaches state) and their implications for different applications.
