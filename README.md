@@ -69,8 +69,8 @@ The course is organized as a reading course. Each student will be required to pe
 
 **February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
-* Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray_A_Distributed_Framework_For_Emerging_AI_Applications.pdf)]
-* Naiad: A Timely Dataflow System [[pdf](/papers/Naiad_A_Timely_Dataflow_System.pdf)]
+* Naiad: A Timely Dataflow System [[pdf](/papers/Naiad:%20A%20Timely%20Dataflow%20System.pdf)]
+* Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray:%20A%20Distributed%20Framework%20for%20Emerging%20AI%20Applications.pdf)]
 * [[justification](/justification/max.txt)] [slides]
 
 **February 12, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
