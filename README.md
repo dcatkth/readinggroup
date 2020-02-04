@@ -65,7 +65,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
-* [[justification](/justification/tianze.txt)] [slides]
+* [[justification](/justification/tianze.txt)] [[slides](/slides/tianze_20200129.pdf)]
 
 **February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
