@@ -71,7 +71,7 @@ The course is organized as a reading course. Each student will be required to pe
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
 * Naiad: A Timely Dataflow System [[pdf](/papers/Naiad:%20A%20Timely%20Dataflow%20System.pdf)]
 * Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray:%20A%20Distributed%20Framework%20for%20Emerging%20AI%20Applications.pdf)]
-* [[justification](/justification/max.txt)] [slides]
+* [[justification](/justification/max.txt)] [[slides](/slides/max_20200205.pdf)]
 
 **February 12, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
 * Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
