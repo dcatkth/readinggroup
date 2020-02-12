@@ -73,12 +73,6 @@ The course is organized as a reading course. Each student will be required to pe
 * Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray:%20A%20Distributed%20Framework%20for%20Emerging%20AI%20Applications.pdf)]
 * [[justification](/justification/max.txt)] [[slides](/slides/max_20200205.pdf)]
 
-**February 12, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
-* Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
-* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
-* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
-* [[justification](/justification/sina.txt)] [slides]
-
 **February 19, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
@@ -110,6 +104,12 @@ The course is organized as a reading course. Each student will be required to pe
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
 * [[justification](/justification/amir.txt)] [slides]
+
+**March 18, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
+* Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
+* Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
+* GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
+* [[justification](/justification/sina.txt)] [slides]
 
 ---
 # Contact
