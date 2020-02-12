@@ -82,7 +82,7 @@ The course is organized as a reading course. Each student will be required to pe
 **February 19, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
-* SparkFSM: A Highly Scalable Frequent Subgraph Mining Approach using Apache Spark [[pdf](/papers/SparkFSM:%20A%20Highly%20Scalable%20Frequent%20Subgraph%20Mining%20Approach%20using%20Apache%20Spark.pdf)]
+* Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
 * [[justification](/justification/susanna.txt)] [slides]
 
 **February 26, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a>** (opponent: Susanna Pozzoli)
