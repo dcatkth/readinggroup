@@ -73,12 +73,6 @@ The course is organized as a reading course. Each student will be required to pe
 * Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray:%20A%20Distributed%20Framework%20for%20Emerging%20AI%20Applications.pdf)]
 * [[justification](/justification/max.txt)] [[slides](/slides/max_20200205.pdf)]
 
-**February 19, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
-* Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
-* Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
-* Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
-* [[justification](/justification/susanna.txt)] [slides]
-
 **February 26, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a>** (opponent: Susanna Pozzoli)
 * Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
@@ -110,6 +104,13 @@ The course is organized as a reading course. Each student will be required to pe
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
 * [[justification](/justification/sina.txt)] [slides]
+
+
+**March 25, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
+* Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
+* Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
+* Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
+* [[justification](/justification/susanna.txt)] [slides]
 
 ---
 # Contact
