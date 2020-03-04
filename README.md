@@ -77,7 +77,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
-* [[justification](/justification/stefanos.txt)] [slides]
+* [[justification](/justification/stefanos.txt)] [[slides](/slides/stefanos_20200226.pdf)]
 
 <!--
 **February 24, 2020 - <a href="mailto:negars@kth.se">Negar Safinianaini</a>** (opponent: Amir Hossein Rahnama)
