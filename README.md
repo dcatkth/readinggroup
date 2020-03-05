@@ -91,7 +91,7 @@ The course is organized as a reading course. Each student will be required to pe
 * CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
 * PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services [[pdf](/papers/PARTIES:%20QoS-Aware%20Resource%20Partitioning%20for%20Multiple%20Interactive%20Services.pdf)]
 * SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support [[pdf](/papers/SWAP:%20Effective%20Fine-Grain%20Management%20of%20Shared%20Last-Level%20Caches%20with%20Minimum%20Hardware%20Support.pdf)]
-* [[justification](/justification/david.txt)] [slides]
+* [[justification](/justification/david.txt)] [[slides](/slides/david_20200304.pdf)]
 
 **March 11, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
