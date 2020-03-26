@@ -110,7 +110,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
-* [[justification](/justification/susanna.txt)] [slides]
+* [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)]
 
 ---
 # Contact
