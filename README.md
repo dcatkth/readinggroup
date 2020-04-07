@@ -35,49 +35,49 @@ The course is organized as a reading course. Each student will be required to pe
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
-* [[justification](/justification/zainab.txt)] [[slides](/slides/zainab_20191104.pdf)]
+* [[justification](/justification/zainab.txt)] [[slides](/slides/zainab_20191104.pdf)] [review]
 
 **November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a>** (opponent: Max Meldrum)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
-* [[justification](/justification/klas.txt)] [[slides-pdf](/slides/klas_20191111.pdf)] [[slides-pptx](/slides/klas_20191111.pptx)]
+* [[justification](/justification/klas.txt)] [[slides-pdf](/slides/klas_20191111.pdf)] [[slides-pptx](/slides/klas_20191111.pptx)] [review]
 
 **November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a>** (opponent: Zainab Abbas)
 * Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[pdf](/papers/Semi-supervised%20Knowledge%20Transfer%20for%20Deep%20Learning%20from%20Private%20Training%20Data.pdf)]
 * SecureML: A System for Scalable Privacy-Preserving Machine Learning [[pdf](/papers/SecureML:%20A%20System%20for%20Scalable%20Privacy-Preserving%20Machine%20Learning.pdf)]
 * Chiron: Privacy-preserving Machine Learning as a Service [[pdf](/papers/Chiron:%20Privacy-preserving%20Machine%20Learning%20as%20a%20Service.pdf)]
-* [[justification](/justification/sana.txt)] [[slides](/slides/sana_20191118.pdf)]
+* [[justification](/justification/sana.txt)] [[slides](/slides/sana_20191118.pdf)] [review]
 
 **November 25, 2019 - <a href="mailto:moritz@logicalclocks.com">Moritz Meister</a>** (opponent: Stefanos Antaris)
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
 * Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
 * Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
-* [[justification](/justification/moritz.txt)] [[slides](/slides/moritz_20191125.pdf)]
+* [[justification](/justification/moritz.txt)] [[slides](/slides/moritz_20191125.pdf)] [review]
 
 **December 16, 2019 - <a href="mailto:lodovico@kth.se">Lodovico Giaretta</a>** (opponent: Negar Safinianaini)
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
 * Semi-Supervised Classification with Graph Convolutional Networks [[pdf](/papers/Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf)]
 * Inductive Representation Learning on Large Graphs [[pdf](/papers/Inductive%20Representation%20Learning%20on%20Large%20Graphs.pdf)]
-* [[justification](/justification/lodovico.txt)] [[slides](/slides/lodovico_20191216.pdf)]
+* [[justification](/justification/lodovico.txt)] [[slides](/slides/lodovico_20191216.pdf)] [[review](/slides/lodovico_paper_review.pdf)]
 
 **January 29, 2020 - <a href="mailto:tianzew@kth.se">Tianze Wang</a>** (opponent: Sina Sheikholeslami)
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
-* [[justification](/justification/tianze.txt)] [[slides](/slides/tianze_20200129.pdf)]
+* [[justification](/justification/tianze.txt)] [[slides](/slides/tianze_20200129.pdf)] [review]
 
 **February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
 * Naiad: A Timely Dataflow System [[pdf](/papers/Naiad:%20A%20Timely%20Dataflow%20System.pdf)]
 * Ray: A Distributed Framework for Emerging AI Applications [[pdf](/papers/Ray:%20A%20Distributed%20Framework%20for%20Emerging%20AI%20Applications.pdf)]
-* [[justification](/justification/max.txt)] [[slides](/slides/max_20200205.pdf)]
+* [[justification](/justification/max.txt)] [[slides](/slides/max_20200205.pdf)] [[review](/slides/max_paper_review.pdf)]
 
 **February 26, 2020 - <a href="mailto:antaris@kth.se">Stefanos Antaris</a>** (opponent: Susanna Pozzoli)
 * Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability [[pdf](/papers/Deep%20Decentralized%20Multi-task%20Multi-Agent%20Reinforcement%20Learning%20under%20Partial%20Observability.pdf)]
 * Multi-Agent Adversarial Inverse Reinforcement Learning [[pdf](/papers/Multi-Agent%20Adversarial%20Inverse%20Reinforcement%20Learning.pdf)]
 * Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents [[pdf](/papers/Fully%20Decentralized%20Multi-Agent%20Reinforcement%20Learning%20with%20Networked%20Agents.pdf)]
-* [[justification](/justification/stefanos.txt)] [[slides](/slides/stefanos_20200226.pdf)]
+* [[justification](/justification/stefanos.txt)] [[slides](/slides/stefanos_20200226.pdf)] [review]
 
 <!--
 **February 24, 2020 - <a href="mailto:negars@kth.se">Negar Safinianaini</a>** (opponent: Amir Hossein Rahnama)
@@ -91,26 +91,25 @@ The course is organized as a reading course. Each student will be required to pe
 * CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
 * PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services [[pdf](/papers/PARTIES:%20QoS-Aware%20Resource%20Partitioning%20for%20Multiple%20Interactive%20Services.pdf)]
 * SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support [[pdf](/papers/SWAP:%20Effective%20Fine-Grain%20Management%20of%20Shared%20Last-Level%20Caches%20with%20Minimum%20Hardware%20Support.pdf)]
-* [[justification](/justification/david.txt)] [[slides](/slides/david_20200304.pdf)]
+* [[justification](/justification/david.txt)] [[slides](/slides/david_20200304.pdf)] [review]
 
 **March 11, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
-* [[justification](/justification/amir.txt)] [[slides](/slides/amir_20200311.pdf)]
+* [[justification](/justification/amir.txt)] [[slides](/slides/amir_20200311.pdf)] [review]
 
 **March 18, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
 * Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
 * Placeto: Learning Generalizable Device Placement Algorithms for Distributed Machine Learning [[pdf](/papers/Placeto:%20Learning%20Generalizable%20Device%20Placement%20Algorithms%20for%20Distributed%20Machine%20Learning.pdf)]
 * GDP: Generalized Device Placement for Dataflow Graphs [[pdf](/papers/GDP:%20Generalized%20Device%20Placement%20for%20Dataflow%20Graphs.pdf)]
-* [[justification](/justification/sina.txt)] [[slides](/slides/sina_20200318.pdf)]
-
+* [[justification](/justification/sina.txt)] [[slides](/slides/sina_20200318.pdf)] [review]
 
 **March 25, 2020 - <a href="mailto:spozzoli@kth.se">Susanna Pozzoli</a>** (opponent: Lodovico Giaretta)
 * Frequent Subgraph Mining Based on Pregel [[pdf](/papers/Frequent%20Subgraph%20Mining%20Based%20on%20Pregel.pdf)]
 * Large-Scale Frequent Subgraph Mining in MapReduce [[pdf](/papers/Large-Scale%20Frequent%20Subgraph%20Mining%20in%20MapReduce.pdf)]
 * Leveraging Multiple GPUs and CPUs for Graphlet Counting in Large Networks [[pdf](/papers/Leveraging%20Multiple%20GPUs%20and%20CPUs%20for%20Graphlet%20Counting%20in%20Large%20Networks.pdf)]
-* [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)]
+* [[justification](/justification/susanna.txt)] [[slides](/slides/sussana_20200325.pdf)] [review]
 
 ---
 # Contact
