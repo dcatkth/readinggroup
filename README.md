@@ -35,25 +35,25 @@ The course is organized as a reading course. Each student will be required to pe
 * A Deep Learning Framework for Graph Partitioning [[pdf](/papers/A%20Deep%20Learning%20Framework%20for%20Graph%20Partitioning.pdf)]
 * Device Placement Optimization with Reinforcement Learning [[pdf](/papers/Device%20Placement%20Optimization%20with%20Reinforcement%20Learning.pdf)]
 * Streaming Graph Partitioning for Large Distributed Graphs [[pdf](/papers/Streaming%20Graph%20Partitioning%20for%20Large%20Distributed%20Graphs.pdf)]
-* [[justification](/justification/zainab.txt)] [[slides](/slides/zainab_20191104.pdf)] [review]
+* [[justification](/justification/zainab.txt)] [[slides](/slides/zainab_20191104.pdf)] [[review](/slides/zainab_paper_review.pdf)]
 
 **November 11, 2019 - <a href="mailto:klasseg@kth.se">Klas Segeljakt</a>** (opponent: Max Meldrum)
 * Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark [[pdf](/papers/Structured%20Streaming:%20A%20Declarative%20API%20for%20Real-Time%20Applications%20in%20Apache%20Spark.pdf)]
 * State Management in Apache Flink [[pdf](/papers/State%20Management%20in%20Apache%20Flink.pdf)]
 * Consistent Regions: Guaranteed Tuple Processing in IBM Streams [[pdf](/papers/Consistent%20Regions:%20Guaranteed%20Tuple%20Processing%20in%20IBM%20Streams.pdf)]
-* [[justification](/justification/klas.txt)] [[slides-pdf](/slides/klas_20191111.pdf)] [[slides-pptx](/slides/klas_20191111.pptx)] [review]
+* [[justification](/justification/klas.txt)] [[slides-pdf](/slides/klas_20191111.pdf)] [[slides-pptx](/slides/klas_20191111.pptx)] [[review](/slides/klas_paper_review.pdf)]
 
 **November 18, 2019 - <a href="mailto:sanaim@kth.se">Sana Imtiaz</a>** (opponent: Zainab Abbas)
 * Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data [[pdf](/papers/Semi-supervised%20Knowledge%20Transfer%20for%20Deep%20Learning%20from%20Private%20Training%20Data.pdf)]
 * SecureML: A System for Scalable Privacy-Preserving Machine Learning [[pdf](/papers/SecureML:%20A%20System%20for%20Scalable%20Privacy-Preserving%20Machine%20Learning.pdf)]
 * Chiron: Privacy-preserving Machine Learning as a Service [[pdf](/papers/Chiron:%20Privacy-preserving%20Machine%20Learning%20as%20a%20Service.pdf)]
-* [[justification](/justification/sana.txt)] [[slides](/slides/sana_20191118.pdf)] [review]
+* [[justification](/justification/sana.txt)] [[slides](/slides/sana_20191118.pdf)] [[review](/slides/sana_paper_review.pdf)]
 
 **November 25, 2019 - <a href="mailto:moritz@logicalclocks.com">Moritz Meister</a>** (opponent: Stefanos Antaris)
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [[pdf](/papers/BOHB:%20Robust%20and%20Efficient%20Hyperparameter%20Optimization%20at%20Scale.pdf)]
 * Massively Parallel Hyperparameter Tuning [[pdf](/papers/Massively%20Parallel%20Hyperparameter%20Tuning.pdf)]
 * Population Based Training of Neural Networks [[pdf](/papers/Population%20Based%20Training%20of%20Neural%20Networks.pdf)]
-* [[justification](/justification/moritz.txt)] [[slides](/slides/moritz_20191125.pdf)] [review]
+* [[justification](/justification/moritz.txt)] [[slides](/slides/moritz_20191125.pdf)] [[review](/slides/moritz_paper_review.pdf)]
 
 **December 16, 2019 - <a href="mailto:lodovico@kth.se">Lodovico Giaretta</a>** (opponent: Negar Safinianaini)
 * Gated Graph Sequence Neural Networks [[pdf](/papers/Gated%20Graph%20Sequence%20Neural%20Networks.pdf)]
@@ -65,7 +65,7 @@ The course is organized as a reading course. Each student will be required to pe
 * Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks [[pdf](/papers/Exploring%20Hidden%20Dimensions%20in%20Parallelizing%20Convolutional%20Neural%20Networks.pdf)]
 * Beyond Data and Model Parallelism for Deep Neural Networks [[pdf](/papers/Beyond%20Data%20and%20Model%20Parallelism%20for%20Deep%20Neural%20Networks.pdf)]
 * Priority-based Parameter Propagation for Distributed DNN Training [[pdf](/papers/Priority-based%20Parameter%20Propagation%20for%20Distributed%20DNN%20Training.pdf)]
-* [[justification](/justification/tianze.txt)] [[slides](/slides/tianze_20200129.pdf)] [review]
+* [[justification](/justification/tianze.txt)] [[slides](/slides/tianze_20200129.pdf)] [[review](/slides/tianze_paper_review.pdf)]
 
 **February 5, 2020 - <a href="mailto:mmeldrum@kth.se">Max Meldrum</a>** (opponent: Klas Segeljakt)
 * MillWheel: Fault-Tolerant Stream Processing at Internet Scale [[pdf](/papers/MillWheel:%20Fault-Tolerant%20Stream%20Processing%20at%20Internet%20Scale.pdf)]
