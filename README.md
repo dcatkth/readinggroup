@@ -91,13 +91,13 @@ The course is organized as a reading course. Each student will be required to pe
 * CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers [[pdf](/papers/CoPart:%20Coordinated%20Partitioning%20of%20Last-Level%20Cache%20and%20Memory%20Bandwidth%20for%20Fairness-Aware%20Workload%20Consolidation%20on%20Commodity%20Servers.pdf)]
 * PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services [[pdf](/papers/PARTIES:%20QoS-Aware%20Resource%20Partitioning%20for%20Multiple%20Interactive%20Services.pdf)]
 * SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support [[pdf](/papers/SWAP:%20Effective%20Fine-Grain%20Management%20of%20Shared%20Last-Level%20Caches%20with%20Minimum%20Hardware%20Support.pdf)]
-* [[justification](/justification/david.txt)] [[slides](/slides/david_20200304.pdf)] [review]
+* [[justification](/justification/david.txt)] [[slides](/slides/david_20200304.pdf)] [[review](/slides/david_paper_review.pdf)]
 
 **March 11, 2020 - <a href="mailto:arahnama@kth.se">Amir Hossein Rahnama</a>** (opponent: Tianze Wang)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition [[pdf](/papers/This%20Looks%20Like%20That:%20Deep%20Learning%20for%20Interpretable%20Image%20Recognition.pdf)]
 * Interpretable Image Recognition with Hierarchical Prototypes [[pdf](/papers/Interpretable%20Image%20Recognition%20with%20Hierarchical%20Prototypes.pdf)]
 * Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [[pdf](/papers/Deep%20Learning%20for%20Case-Based%20Reasoning%20through%20Prototypes:%20A%20Neural%20Network%20that%20Explains%20Its%20Predictions.pdf)]
-* [[justification](/justification/amir.txt)] [[slides](/slides/amir_20200311.pdf)] [review]
+* [[justification](/justification/amir.txt)] [[slides](/slides/amir_20200311.pdf)] [[review](/slides/amir_paper_review.pdf)]
 
 **March 18, 2020 - <a href="mailto:sinash@kth.se">Sina Sheikholeslami</a>** (opponent: Moritz Meister and David Daharewa Gureya)
 * Supporting Very Large Models using Automatic Dataflow Graph Partitioning [[pdf](/papers/Supporting%20Very%20Large%20Models%20using%20Automatic%20Dataflow%20Graph%20Partitioning.pdf)]
